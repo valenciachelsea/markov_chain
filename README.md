@@ -1,4 +1,4 @@
-# Identifying Critical Touchpoints in Purchaser Journey
+# Purchaser Journey Interactions
 
 ## Background
 This project leverages a Markov Chain model to analyze and better understand the sequence of interactions in a purchaser's journey. By modeling the transitions between various customer interactions, the analysis identifies which touchpoints are most likely to lead to a purchase. This insight can inform strategic decisions in multiple areas, including:
